@@ -2,6 +2,7 @@
 
 # Tiny Tapeout Wokwi Project Template edited for PhBootCamp2026
 - The Wokwi Template was copied for demo purposes.
+
 - [Read the documentation for project](docs/info.md)
 
 ## What is Tiny Tapeout?
